@@ -1,49 +1,35 @@
-# BACS 3001 CTF Portfolio
+Andrew - Cybersecurity Portfolio
+About Me
 
-## Overview
+My name is Andrew and I am currently pursuing a Bachelor of Applied Cybersecurity degree through SANS Technology Institute. My interest in cybersecurity developed through my work in systems administration, where I became interested in securing enterprise environments and supporting classified networks. Today, I work in cybersecurity and continue to expand my technical skills through hands-on training, Capture the Flag competitions, and professional certifications.
 
-This repository documents my participation in the BACS 3001 Capture the Flag (CTF) assignment. The purpose of this portfolio is to highlight my learning journey, tools used, challenges completed, and skills developed while working through cybersecurity exercises in a safe lab environment.
+BACS 3001 Capture The Flag Experience
 
-## About the CTF
+The BACS 3001 CTF provided an opportunity to apply cybersecurity concepts in a hands-on environment. Throughout the competition I used Linux tools, web application testing techniques, packet analysis, and problem-solving skills to complete challenges and earn points.
 
-The CTF provided hands-on practice with common cybersecurity concepts such as enumeration, web application testing, Linux command-line usage, basic scripting, packet analysis, and problem solving. Each challenge required researching, testing, documenting steps, and learning from mistakes.
+One of the most valuable lessons I learned was the importance of methodical troubleshooting and documentation. Many challenges required testing multiple approaches, researching unfamiliar concepts, and learning from failed attempts before reaching a solution.
 
-## Tools Used
+CTF Highlights
+Earned approximately 1,000+ points in NetWars
+Completed challenges involving Linux, web applications, networking, and basic scripting
+Utilized tools including Kali Linux, Wireshark, CyberChef, curl, grep, and browser developer tools
+Improved skills in problem solving, research, and technical documentation
 
-Some of the tools and resources I used included:
+Skills Developed
+Linux Administration
+Web Application Testing
+Network Analysis
+Documentation
+Troubleshooting
+Cybersecurity Research
+Education
 
-- Kali Linux
-- Terminal / Bash commands
-- curl
-- grep
-- cat
-- ls
-- Wireshark
-- CyberChef
-- Browser developer tools
-- GitHub for documentation
+Bachelor of Applied Cybersecurity (BACS)
+SANS Technology Institute
 
-## Skills Practiced
-
-During this CTF, I practiced:
-
-- Reading challenge briefings and identifying objectives
-- Using Linux commands to explore files and systems
-- Testing web application inputs
-- Understanding basic SQL injection concepts
-- Reviewing network traffic
-- Documenting technical steps clearly
-- Troubleshooting errors and adjusting my approach
-
-## Learning Reflection
-
-This CTF helped me better understand how cybersecurity skills are applied in practical scenarios. I learned that solving challenges is not always about knowing the answer immediately, but about testing ideas, researching errors, and documenting the process. I also improved my confidence using the command line and explaining technical steps in a clear way.
-
-## Repository Contents
-
-- `writeups/` - Reflection notes and sample challenge write-ups
-- `screenshots/` - Screenshots used for documentation
-
-## Disclaimer
-
-This repository is for educational purposes only. All work was completed in an authorized school lab or simulated CTF environment.
+Certifications
+CISSP
+GSEC
+GISF
+CySA+
+AZ-500
