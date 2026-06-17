@@ -1,7 +1,7 @@
-Andrew - Cybersecurity Portfolio
+Andrew Perez - Cybersecurity Portfolio
 About Me
 
-My name is Andrew and I am currently pursuing a Bachelor of Applied Cybersecurity degree through SANS Technology Institute. My interest in cybersecurity developed through my work in systems administration, where I became interested in securing enterprise environments and supporting classified networks. Today, I work in cybersecurity and continue to expand my technical skills through hands-on training, Capture the Flag competitions, and professional certifications.
+My name is Andrew Perez and I am currently pursuing a Bachelor of Applied Cybersecurity degree through SANS Technology Institute. My interest in cybersecurity developed through my work in systems administration, where I became interested in securing enterprise environments and supporting classified networks. Today, I work in cybersecurity and continue to expand my technical skills through hands-on training, Capture the Flag competitions, and professional certifications.
 
 BACS 3001 Capture The Flag Experience
 
@@ -14,6 +14,7 @@ Earned approximately 1,000+ points in NetWars
 Completed challenges involving Linux, web applications, networking, and basic scripting
 Utilized tools including Kali Linux, Wireshark, CyberChef, curl, grep, and browser developer tools
 Improved skills in problem solving, research, and technical documentation
+CTF Performance
 
 Skills Developed
 Linux Administration
